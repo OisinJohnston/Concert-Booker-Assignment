@@ -27,4 +27,38 @@
     width: 100%;
 }
 
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+form, table {
+    border: 3px solid #f1f1f1;
+    padding: 16px;
+    margin: 8px auto;
+    text-align: center;
+}
+
+#events td, th {
+    width: 33%;
+}
+
+input, label {
+    display: block;
+    margin: 5px auto;
+    width: 200px
+}
+
+h3 {
+    margin-top: -5px;
+}
 
